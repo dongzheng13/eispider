@@ -1,0 +1,8 @@
+prefix=/home/dz/eispider_ver2/install
+
+Name: eispider_description
+Description: Description of eispider_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
